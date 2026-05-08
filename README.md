@@ -173,7 +173,7 @@ The pipeline is cheap to run. Here's a rough breakdown per meeting:
 | Airtable, Gmail API | Free tier |
 | **Total per meeting** | **≈ $0.85** |
 
-At 10 calls per week (40/month), you're looking at roughly **$16–18/month** in API costs. Even with headroom for longer calls and retries, staying under $35/month at that volume is straightforward.
+At 10 calls per week (40/month), you're looking at roughly **$35/month** in API costs. Even with headroom for longer calls and retries, staying under $35/month at that volume is straightforward.
 
 ---
 
