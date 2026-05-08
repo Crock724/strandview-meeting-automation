@@ -214,17 +214,3 @@ All pipeline outputs are saved to the `outputs/` directory as timestamped JSON f
   }
 }
 ```
-
-
-
----
-
-## Roadmap
-
-### Pre-call Intelligence Briefs
-
-The obvious next feature is flipping the pipeline around: instead of processing what happened after a call, generate a brief _before_ it.
-
-Given a founder name and company, the pipeline could pull recent news (Crunchbase, TechCrunch, LinkedIn), summarize their last funding round and investor list, flag any competitive signals or red flags, and surface questions worth asking — all delivered as a one-page brief 30 minutes before the meeting starts.
-
-This would close the loop on the full meeting lifecycle: arrive prepared, run the call, and walk away with next steps handled — without any manual research or note-taking at any stage.
