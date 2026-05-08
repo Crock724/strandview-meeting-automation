@@ -181,7 +181,6 @@ At 10 calls per week (40/month), you're looking at roughly **$35/month** in API 
 
 All pipeline outputs are saved to the `outputs/` directory as timestamped JSON files. Here's the structure (abbreviated), drawn from a real run on `founder_call_001.m4a`:
 
-**`outputs/20260507_234438_marcus.json`**
 
 ```json
 {
@@ -216,7 +215,7 @@ All pipeline outputs are saved to the `outputs/` directory as timestamped JSON f
 }
 ```
 
-The full file — including the complete drafted email — is in `outputs/20260507_234438_marcus.json`.
+
 
 ---
 
