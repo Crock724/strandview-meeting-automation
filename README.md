@@ -168,10 +168,10 @@ The pipeline is cheap to run. Here's a rough breakdown per meeting:
 
 | Service | Cost |
 |---|---|
-| AssemblyAI transcription (~45 min audio) | ~$0.27 |
+| AssemblyAI transcription (~60 min audio) | ~$0.80 |
 | Claude Sonnet 4.5 (input + output tokens) | ~$0.05–0.10 |
 | Airtable, Gmail API | Free tier |
-| **Total per meeting** | **< $0.40** |
+| **Total per meeting** | **≈ $0.85** |
 
 At 10 calls per week (40/month), you're looking at roughly **$16–18/month** in API costs. Even with headroom for longer calls and retries, staying under $35/month at that volume is straightforward.
 
