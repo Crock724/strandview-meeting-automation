@@ -1,0 +1,28 @@
+# Environment & secrets
+.env
+credentials.json
+token.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+__pycache__/
+.venv/
+env/
+
+# Pipeline outputs
+outputs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/

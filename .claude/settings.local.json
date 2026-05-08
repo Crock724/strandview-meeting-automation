@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-ChildItem \"C:\\\\Users\\\\crock\\\\OneDrive\\\\Documents\\\\strandview-assignment\" | Where-Object { $_.Name -ne \"venv\" } | Select-Object Name)",
+      "Bash(venv/Scripts/python -c \"import anthropic, dotenv; print\\('anthropic', anthropic.__version__\\); print\\('dotenv ok'\\)\")",
+      "PowerShell(& \"C:\\\\Users\\\\crock\\\\OneDrive\\\\Documents\\\\strandview-assignment\\\\venv\\\\Scripts\\\\python.exe\" -c \"from storage import save_to_airtable, create_airtable_record; print\\('Import OK'\\)\")"
+    ]
+  }
+}

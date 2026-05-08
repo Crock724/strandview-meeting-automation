@@ -1,0 +1,10 @@
+# Example Meeting Transcript
+# Replace this file with a real transcript to test the pipeline.
+
+[00:00] Alice: Let's get started. Today we're reviewing Q3 goals.
+[00:10] Bob: Sounds good. I think the main priority is finalizing the roadmap by end of week.
+[00:25] Alice: Agreed. Bob, can you own that and send the draft to the team by Friday?
+[00:32] Bob: Yes, I'll have it ready by Thursday EOD to give buffer time.
+[00:40] Alice: Great. We also decided to push the beta launch to the first week of next month.
+[00:50] Bob: That works. I'll update the stakeholder deck to reflect the new date.
+[01:00] Alice: Perfect. Let's wrap up — main action items are the roadmap draft and the deck update.
